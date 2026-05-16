@@ -6,9 +6,14 @@
     "npm:pi-web-access",
     "npm:@juicesharp/rpiv-ask-user-question",
     "npm:@plannotator/pi-extension",
-    "npm:pi-rtk-optimizer"
+    "npm:pi-rtk-optimizer",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:pi-powerline-footer"
   ],
   "defaultThinkingLevel": "low",
   "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.4"
+  "defaultModel": "gpt-5.4",
+  "powerline": {
+    "preset": "ascii"
+  }
 }
