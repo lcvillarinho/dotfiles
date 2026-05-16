@@ -2,26 +2,16 @@
 
 ## Installation
 
-1. Clone the repository:
+```bash
+# Clone the repository
+git clone https://github.com/lucasvillarinho/dotfiles.git ~/.dotfiles
+cd ~/.dotfiles
 
-   ```bash
-   git clone https://github.com/lucasvillarinho/dotfiles.git ~/.dotfiles
-   cd ~/.dotfiles
-   ```
-
-2. Install dotfiles:
-
-   ```bash
-   ./install
-   # or
-   make install
-   ```
-
-3. To uninstall:
-
-   ```bash
-   make uninstall
-   ```
+# Install dotfiles
+./install
+# or
+make install
+```
 
 ## Tools
 
@@ -64,6 +54,12 @@
 ## Feedback
 
 Suggestions/improvements: [Issues](https://github.com/lucasvillarinho/dotfiles/issues)
+
+## Uninstall
+
+```bash
+make uninstall
+```
 
 ## License
 
