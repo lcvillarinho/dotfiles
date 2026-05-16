@@ -5,7 +5,8 @@
     "npm:@juicesharp/rpiv-btw",
     "npm:pi-web-access",
     "npm:@juicesharp/rpiv-ask-user-question",
-    "npm:@plannotator/pi-extension"
+    "npm:@plannotator/pi-extension",
+    "npm:pi-rtk-optimizer"
   ],
   "defaultThinkingLevel": "low",
   "defaultProvider": "openai-codex",
