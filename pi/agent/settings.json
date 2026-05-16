@@ -2,7 +2,9 @@
   "lastChangelogVersion": "0.74.0",
   "theme": "tokyonight-storm",
   "packages": [
-    "npm:@juicesharp/rpiv-btw"
+    "npm:@juicesharp/rpiv-btw",
+    "npm:pi-web-access",
+    "npm:@juicesharp/rpiv-ask-user-question"
   ],
   "defaultThinkingLevel": "minimal",
   "defaultProvider": "openai-codex",
