@@ -9,6 +9,7 @@
     ~/.config/fish/config.fish: fish/config.fish
     ~/.config/starship.toml: starship/starship.toml
     ~/.config/ghostty/config: ghostty/config
+    ~/.config/fastfetch/config.jsonc: fastfetch/config.jsonc
     ~/.pi/agent/settings.json: pi/agent/settings.json
     ~/.pi/agent/themes: pi/agent/themes
 

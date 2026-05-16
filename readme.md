@@ -1,5 +1,7 @@
 # `~/.dotfiles`
 
+<img src="images/fastfetch.png" alt="Fastfetch preview" width="500" />
+
 ## Installation
 
 ```bash
