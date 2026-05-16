@@ -28,7 +28,7 @@
 - dotfiles management: [Dotbot](https://github.com/anishathalye/dotbot)
 - shell: [Fish](https://fishshell.com/)
 - prompt: [Starship](https://starship.rs/)
-- terminal: [Ghostty](https://ghostty.org/)
+- terminal: [Ghostty](https://ghostty.org/) + [cmux](https://github.com/cortesi/cmux)
 - fuzzy finder: [fzf](https://github.com/junegunn/fzf)
 - smarter `cd`: [zoxide](https://github.com/ajeetdsouza/zoxide)
 
