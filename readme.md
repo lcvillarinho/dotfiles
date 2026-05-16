@@ -8,8 +8,6 @@ git clone https://github.com/lucasvillarinho/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 
 # Install dotfiles
-./install
-# or
 make install
 ```
 
