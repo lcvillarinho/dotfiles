@@ -18,3 +18,5 @@ unfocused-split-opacity = 1
 keybind = cmd+shift+left=previous_tab
 keybind = cmd+shift+right=next_tab
 keybind = cmd+shift+i=inspector:toggle
+
+macos-option-as-alt = true
