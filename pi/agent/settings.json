@@ -4,9 +4,10 @@
   "packages": [
     "npm:@juicesharp/rpiv-btw",
     "npm:pi-web-access",
-    "npm:@juicesharp/rpiv-ask-user-question"
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@plannotator/pi-extension"
   ],
-  "defaultThinkingLevel": "minimal",
+  "defaultThinkingLevel": "low",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.4"
 }
