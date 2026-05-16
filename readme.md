@@ -26,8 +26,9 @@ make install
 
 ### Install
 
-- package: [`@earendil-works/pi-coding-agent`](https://www.npmjs.com/package/@earendil-works/pi-coding-agent)
-- command: `npm install -g @earendil-works/pi-coding-agent`
+```bash
+curl -fsSL https://pi.dev/install.sh | sh
+```
 
 ### Config
 
