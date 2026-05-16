@@ -3,5 +3,8 @@
   "theme": "tokyonight-storm",
   "packages": [
     "npm:@juicesharp/rpiv-btw"
-  ]
+  ],
+  "defaultThinkingLevel": "minimal",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.4"
 }
