@@ -8,7 +8,8 @@
     "npm:@plannotator/pi-extension",
     "npm:pi-rtk-optimizer",
     "npm:@juicesharp/rpiv-todo",
-    "npm:pi-powerline-footer"
+    "npm:pi-powerline-footer",
+    "npm:@tmustier/pi-usage-extension"
   ],
   "defaultThinkingLevel": "low",
   "defaultProvider": "openai-codex",
