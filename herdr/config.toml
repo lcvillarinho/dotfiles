@@ -9,3 +9,4 @@ auto_switch = false
 
 [keys]
 prefix = "alt+space"
+new_workspace = "prefix+n"
