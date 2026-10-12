@@ -4,5 +4,8 @@ onboarding = false
 status_indicators = "symbols"
 
 [theme]
-name = "catppuccin"
+name = "terminal"
 auto_switch = false
+
+[keys]
+prefix = "alt+space"
