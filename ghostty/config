@@ -20,3 +20,4 @@ keybind = cmd+shift+right=next_tab
 keybind = cmd+shift+i=inspector:toggle
 
 macos-option-as-alt = true
+macos-icon = xray
