@@ -1,0 +1,2 @@
+# Herdr plugins, one GitHub shorthand per line (owner/repo[/subdir]).
+# Applied by herdr/install-plugins.sh during `make install`.

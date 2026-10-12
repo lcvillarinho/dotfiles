@@ -12,6 +12,8 @@
     ~/.config/fastfetch/config.jsonc: fastfetch/config.jsonc
     ~/.pi/agent/settings.json: pi/agent/settings.json
     ~/.pi/agent/themes: pi/agent/themes
+    ~/.config/herdr/config.toml: herdr/config.toml
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
+    - [./herdr/install-plugins.sh, Installing herdr plugins]
