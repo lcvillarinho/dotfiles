@@ -2,7 +2,7 @@ yabai -m config layout                       bsp
 
 # Margin around the screen, matching the reference screenshot
 # (a single window floats ~32pt away from every edge).
-yabai -m config top_padding                  32
+yabai -m config top_padding                  16
 yabai -m config bottom_padding               32
 yabai -m config left_padding                 32
 yabai -m config right_padding                32
